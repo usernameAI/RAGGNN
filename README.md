@@ -1,6 +1,8 @@
 # RAGGNN
 This is the official source code for our PR&AI (模式识别与人工智能) 2024 Paper
+
 "Temporal Features Enhanced Graph Neural Network for Session-based Recommendation System in E-commerce"
+
 "电商场景下时序特征增强的图神经网络会话推荐系统"
 
 # Abstract
